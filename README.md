@@ -4,4 +4,4 @@ sebuah aplikasi dengan fitur login
 alut fitur login:
 1. memasukkan email dan password
 2. memvalidasi masukkan
-3. menampilkan home page
+3. menampilkan beranda page
